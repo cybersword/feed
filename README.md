@@ -38,7 +38,7 @@
 # 模块组成
 ## Case Manager 
 ### 表结构
-case_id, seq, feed_id, os, version, sid, location, ext)
+case_id, seq, feed_id, os, version, sid, location, ext
 ### 输入
 case_id
 ### 输出
